@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I am Niraj Chauhan, a passionate Full-Stack Developer hailing from India 🇮🇳.</h1>
+<h1 align="center">Hey there! 👋 I am Niraj Chauhan, a passionate Full-Stack Developer hailing from India.</h1>
   
 With a decade of professional experience under my belt, I'm deeply committed to crafting robust web solutions and bringing ideas to life through code.
 
